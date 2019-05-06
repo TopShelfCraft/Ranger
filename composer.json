@@ -1,0 +1,14 @@
+{
+	"name": "topshelfcraft/ranger",
+	"description": "What roads would any dare to tread, what safety would there be in quiet lands, if the Dunedain were asleep?",
+	"version": "3.0.0",
+	"support": {
+		"email": "support@topshelfcraft.com"
+	},
+	"license": "proprietary",
+	"autoload": {
+		"psr-4": {
+			"topshelfcraft\\ranger\\": "src/"
+		}
+	}
+}
